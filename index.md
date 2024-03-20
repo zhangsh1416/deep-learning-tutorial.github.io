@@ -1,4 +1,4 @@
-# Deep Learning Fundamentals Blog
+# Deep Learning Fundamentals
 
 Welcome to the Deep Learning Fundamentals Blog, where I aim to demystify the foundational concepts of deep learning and neural network training. This blog is designed for beginners and enthusiasts eager to dive into the world of deep learning.
 
